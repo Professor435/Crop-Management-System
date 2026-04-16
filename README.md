@@ -1,8 +1,3 @@
-# Crop-Management-System
-Here's a professional GitHub description for your CropAI project:
-
----
-
 ## CropAI - Intelligent Crop Prediction System
 
 **AI-powered crop recommendation engine helping farmers make data-driven decisions for optimal agricultural outcomes.**
